@@ -1,2 +1,6 @@
-# dev-portfolio
-A minimal, elegant and creative portfolio. 
+A minimal, elegant and creative portfolio.
+
+Technologies Used:
+- NextJs
+- TailwindCss
+- Eslint
